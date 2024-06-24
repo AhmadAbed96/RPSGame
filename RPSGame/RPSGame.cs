@@ -26,6 +26,7 @@
                 Console.WriteLine(result);
                 Console.WriteLine($"Your score is {player.Score} and The AI score is {ai.Score}");
 
+
             }
 
         }
